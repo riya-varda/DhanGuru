@@ -56,7 +56,7 @@ It simplifies money management by giving insights into spending patterns and hel
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/DhanGuru.git
+git clone https://github.com/riya-varda/DhanGuru.git
 cd DhanGuru
 pip install -r requirements.txt
 ```
